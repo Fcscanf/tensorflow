@@ -1,5 +1,6 @@
 """
 @author:Fcant
+池化函数
 """
 
 import tensorflow as tf
